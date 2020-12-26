@@ -1,0 +1,12 @@
+C:\Users\Welle\Documents\Projects\BirthdayConsoleApp\Birthday.Infrastructure\bin\Release\netstandard2.0\Birthday.Infrastructure.DataAccess.deps.json
+C:\Users\Welle\Documents\Projects\BirthdayConsoleApp\Birthday.Infrastructure\bin\Release\netstandard2.0\Birthday.Infrastructure.DataAccess.dll
+C:\Users\Welle\Documents\Projects\BirthdayConsoleApp\Birthday.Infrastructure\bin\Release\netstandard2.0\Birthday.Infrastructure.DataAccess.pdb
+C:\Users\Welle\Documents\Projects\BirthdayConsoleApp\Birthday.Infrastructure\bin\Release\netstandard2.0\Birthday.Domain.dll
+C:\Users\Welle\Documents\Projects\BirthdayConsoleApp\Birthday.Infrastructure\bin\Release\netstandard2.0\Birthday.Domain.pdb
+C:\Users\Welle\Documents\Projects\BirthdayConsoleApp\Birthday.Infrastructure\obj\Release\netstandard2.0\Birthday.Infrastructure.DataAccess.csprojAssemblyReference.cache
+C:\Users\Welle\Documents\Projects\BirthdayConsoleApp\Birthday.Infrastructure\obj\Release\netstandard2.0\Birthday.Infrastructure.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Welle\Documents\Projects\BirthdayConsoleApp\Birthday.Infrastructure\obj\Release\netstandard2.0\Birthday.Infrastructure.DataAccess.AssemblyInfo.cs
+C:\Users\Welle\Documents\Projects\BirthdayConsoleApp\Birthday.Infrastructure\obj\Release\netstandard2.0\Birthday.Infrastructure.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Welle\Documents\Projects\BirthdayConsoleApp\Birthday.Infrastructure\obj\Release\netstandard2.0\Birthday.Infrastructure.DataAccess.csproj.CopyComplete
+C:\Users\Welle\Documents\Projects\BirthdayConsoleApp\Birthday.Infrastructure\obj\Release\netstandard2.0\Birthday.Infrastructure.DataAccess.dll
+C:\Users\Welle\Documents\Projects\BirthdayConsoleApp\Birthday.Infrastructure\obj\Release\netstandard2.0\Birthday.Infrastructure.DataAccess.pdb

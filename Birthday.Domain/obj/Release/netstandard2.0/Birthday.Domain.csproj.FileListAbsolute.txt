@@ -1,0 +1,9 @@
+C:\Users\Welle\Documents\Projects\BirthdayConsoleApp\Birthday.Domain\bin\Release\netstandard2.0\Birthday.Domain.deps.json
+C:\Users\Welle\Documents\Projects\BirthdayConsoleApp\Birthday.Domain\bin\Release\netstandard2.0\Birthday.Domain.dll
+C:\Users\Welle\Documents\Projects\BirthdayConsoleApp\Birthday.Domain\bin\Release\netstandard2.0\Birthday.Domain.pdb
+C:\Users\Welle\Documents\Projects\BirthdayConsoleApp\Birthday.Domain\obj\Release\netstandard2.0\Birthday.Domain.csprojAssemblyReference.cache
+C:\Users\Welle\Documents\Projects\BirthdayConsoleApp\Birthday.Domain\obj\Release\netstandard2.0\Birthday.Domain.AssemblyInfoInputs.cache
+C:\Users\Welle\Documents\Projects\BirthdayConsoleApp\Birthday.Domain\obj\Release\netstandard2.0\Birthday.Domain.AssemblyInfo.cs
+C:\Users\Welle\Documents\Projects\BirthdayConsoleApp\Birthday.Domain\obj\Release\netstandard2.0\Birthday.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Welle\Documents\Projects\BirthdayConsoleApp\Birthday.Domain\obj\Release\netstandard2.0\Birthday.Domain.dll
+C:\Users\Welle\Documents\Projects\BirthdayConsoleApp\Birthday.Domain\obj\Release\netstandard2.0\Birthday.Domain.pdb

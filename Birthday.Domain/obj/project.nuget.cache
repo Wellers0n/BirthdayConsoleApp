@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DTxAVMWTbhr1/WR8xBzQFjUaJOePBRwPH9aDiz3719ueKccFZ8nLgDaOB78IW4pwBEoov4NNAiwPTp+MKRuUUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Welle\\Documents\\Projects\\BirthdayConsoleApp\\Birthday.Domain\\Birthday.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Welle\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Welle\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

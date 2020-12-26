@@ -1,0 +1,12 @@
+C:\Users\Welle\Documents\Projects\BirthdayConsoleApp\Birthday.ConsoleApp\bin\Release\Birthday.ConsoleApp.exe.config
+C:\Users\Welle\Documents\Projects\BirthdayConsoleApp\Birthday.ConsoleApp\bin\Release\Birthday.ConsoleApp.exe
+C:\Users\Welle\Documents\Projects\BirthdayConsoleApp\Birthday.ConsoleApp\bin\Release\Birthday.ConsoleApp.pdb
+C:\Users\Welle\Documents\Projects\BirthdayConsoleApp\Birthday.ConsoleApp\bin\Release\Birthday.Domain.dll
+C:\Users\Welle\Documents\Projects\BirthdayConsoleApp\Birthday.ConsoleApp\bin\Release\Birthday.Infrastructure.DataAccess.dll
+C:\Users\Welle\Documents\Projects\BirthdayConsoleApp\Birthday.ConsoleApp\bin\Release\Birthday.Domain.pdb
+C:\Users\Welle\Documents\Projects\BirthdayConsoleApp\Birthday.ConsoleApp\bin\Release\Birthday.Infrastructure.DataAccess.pdb
+C:\Users\Welle\Documents\Projects\BirthdayConsoleApp\Birthday.ConsoleApp\obj\Release\Birthday.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Welle\Documents\Projects\BirthdayConsoleApp\Birthday.ConsoleApp\obj\Release\Birthday.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Welle\Documents\Projects\BirthdayConsoleApp\Birthday.ConsoleApp\obj\Release\Birthday.ConsoleApp.csproj.CopyComplete
+C:\Users\Welle\Documents\Projects\BirthdayConsoleApp\Birthday.ConsoleApp\obj\Release\Birthday.ConsoleApp.exe
+C:\Users\Welle\Documents\Projects\BirthdayConsoleApp\Birthday.ConsoleApp\obj\Release\Birthday.ConsoleApp.pdb
