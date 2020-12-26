@@ -15,13 +15,13 @@
 <br/>
 
 ## Birthday
-   Birthday uses a stack `MVC` full `C#` on the backend, I'm making this project to improve
+   Birthday uses `DDD` full `C#` on the backend, I'm making this project to improve
    my skills in the backend.
    
 ## Initing in the your PC
 
-- For clone the project `git clone https://github.com/Wellers0n/Birthday.git`
-- Open `visual studio` in the folder `Birthday/`
+- For clone the project `git clone https://github.com/Wellers0n/BirthdayConsoleApp.git`
+- Open `visual studio` in the folder `BirthdayConsoleApp/`
 
 ## Screens
 
